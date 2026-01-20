@@ -256,7 +256,8 @@ declare -ra UPDATE_SEQUENCE=(
     "U | 083_set_thunar_terminal_kitty.sh"
     "U | 084_package_removal.sh --auto"
     "U | 085_wayclick_reset.sh"
-    "U | 086_generate_colorfiles_for_current_wallpaer.sh"
+#    "U | 086_generate_colorfiles_for_current_wallpaer.sh"
+    "U | 087_hypr_custom_config_setup.sh"
     "U | warp_toggle.sh --disconnect"
 )
 

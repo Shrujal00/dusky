@@ -94,6 +94,7 @@ readonly TARGET_FILES=(
     "sysbench_benchmark.desktop"
     "tailscale_setup.desktop"
     "tailscale_uninstall.desktop"
+    "tui_keybind_customer.desktop"
     "volume_slider.desktop"
     "update_dusky.desktop"
     "warp.desktop"
